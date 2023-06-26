@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÝÃ²‘ùÿÿÿÿ8‹»ÓÏŒ1
+g
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‘’™â8’»ÓÏŒ1
+e
+java:S4488!"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(í´è¿8“»ÓÏŒ1
+e
+java:S4488&"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ÇÚÍŠ8“»ÓÏŒ1
+p
+java:S4488+"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(Ü¥ì‹øÿÿÿÿ8“»ÓÏŒ1
+P
+java:S1128"3Remove this unused import 'jakarta.persistence.Id'.(š¨ô 8”»ÓÏŒ1

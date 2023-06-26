@@ -1,0 +1,10 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÒÌ·8Ö˜ò‹1
+m
+java:S3655("PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(é»¶”8Ÿì»—1
+_
+java:S1128"=Remove this unused import 'java.util.NoSuchElementException'.(®“ÿéúÿÿÿÿ8µì»—1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8µì»—1
+e
+java:S1128"HRemove this unused import 'jakarta.persistence.EntityNotFoundException'.(†œşè8µì»—1

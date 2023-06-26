@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/migration/flyway/Dev/V0.0.1.2__insert_data_into_personnes.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/migration/flyway/Schema/V0.0.1.1__creation_table_personnes.sql" dialect="GenericSQL" />
+  </component>
+</project>
